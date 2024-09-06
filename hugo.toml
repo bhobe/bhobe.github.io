@@ -1,0 +1,37 @@
+
+title = "Anish Bhobe"
+baseURL = "https://abhobe.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+theme = "zen"
+paginate = 10
+
+[author]
+name = "Anish Bhobe"
+url = "abhobe.com"
+
+[params]
+dateformat = "2 January, 2006"
+imageMaxWidth = 400
+logoWidth = 64
+logoHeight = 64
+mobileMenu = true
+mainSections = [
+]
+realfavicongenerator = true
+
+[languages.en]
+weight = 1
+languageName = "English"
+languageCode = "en-GB"
+contentDir = "content/en"
+
+[[languages.en.menu.main]]
+Name = "About"
+weight = -10
+pageRef = "/"
+
+[[languages.en.menu.main]]
+Name = "Publications"
+weight = -10
+pageRef = "/publications/"

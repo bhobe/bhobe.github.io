@@ -1,0 +1,15 @@
+[submodule "themes/hugo.386"]
+	path = themes/hugo.386
+	url = https://gitlab.com/jmfergeau/hugo.386
+[submodule "themes/kaslaanka"]
+	path = themes/kaslaanka
+	url = https://github.com/M1cR0xf7/kaslaanka.git
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/hugo-texify2"]
+	path = themes/hugo-texify2
+	url = https://github.com/weastur/hugo-texify2.git
