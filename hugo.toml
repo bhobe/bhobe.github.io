@@ -18,7 +18,6 @@ logoHeight = 64
 mobileMenu = true
 mainSections = [
 ]
-realfavicongenerator = true
 
 [languages.en]
 weight = 1
