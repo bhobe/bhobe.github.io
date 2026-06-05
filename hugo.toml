@@ -1,7 +1,7 @@
 
 title = "Anish Bhobe"
 baseURL = "https://abhobe.com/"
-languageCode = "en-us"
+locale = "en-us"
 defaultContentLanguage = "en"
 theme = "zen"
 paginate = 10
@@ -21,8 +21,8 @@ mainSections = [
 
 [languages.en]
 weight = 1
-languageName = "English"
-languageCode = "en-GB"
+label = "English"
+locale = "en-US"
 contentDir = "content/en"
 
 [[languages.en.menu.main]]
